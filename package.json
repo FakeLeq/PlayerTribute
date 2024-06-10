@@ -1,0 +1,15 @@
+{
+  "name": "playertribute",
+  "version": "1.0.0",
+  "description": "make player tribute",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "leqend",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^20.14.2",
+    "typescript": "^5.4.5"
+  }
+}
